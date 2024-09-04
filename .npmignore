@@ -1,0 +1,31 @@
+# Exclude folders
+node_modules
+coverage
+dist
+build
+logs
+
+# Exclude configuration and temporary files
+*.log
+*.tsbuildinfo
+*.swp
+
+# Exclude test files
+test/
+tests/
+*.spec.js
+*.test.js
+
+# Exclude configuration and documentation files
+.eslintrc
+*.config.js
+*.config.json
+*.md
+
+# Exclude editor-specific files
+*.sublime-project
+*.sublime-workspace
+*.vscode
+.idea/
+.DS_Store
+Thumbs.db
