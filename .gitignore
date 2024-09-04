@@ -1,0 +1,10 @@
+# Editors
+.idea
+.vscode
+
+# Secrets
+.env
+
+# Libs
+node_modules
+
