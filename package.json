@@ -1,11 +1,15 @@
 {
-  "name": "@amado/frontend-configs",
-  "version": "1.0.0",
+  "name": "@vwsode/frontend-configs",
+  "version": "1.0.1",
   "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vwsode/frontend-configs.git",
-    "directory": "@amado/frontend-configs"
+    "directory": "@vwsode/frontend-configs"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/vwsode",
+    "access": "public"
   },
   "author": "Amado Inc.",
   "license": "ISC",
