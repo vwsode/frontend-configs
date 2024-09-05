@@ -1,1 +1,1 @@
-# [@amado/frontend-configs](https://github.com/amado/frontend-configs)
+# [@vwsode/frontend-configs](https://github.com/amado/frontend-configs)
