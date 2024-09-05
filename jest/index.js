@@ -7,7 +7,7 @@ module.exports = {
   clearMocks: true,
   moduleFileExtensions: ['cjs', 'mjs', 'js', 'jsx', 'ts', 'tsx'],
   moduleNameMapper: {
-    '\\.(css|pcss|sass|scss)$': require.resolve('identity-obj-proxy'),
+    // '\\.(css|pcss|sass|scss)$': require.resolve('identity-obj-proxy'),
   },
   testMatch: ['<rootDir>/src/**/__tests__/**/*.(spec|test).{ts,tsx}'],
   transform: {
@@ -15,3 +15,5 @@ module.exports = {
   },
   transformIgnorePatterns: ['<rootDir>/node_modules/(?!@docusaurus)'],
 };
+
+// transformIgnorePatterns: []
