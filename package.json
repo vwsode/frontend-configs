@@ -1,6 +1,6 @@
 {
     "name": "@vwsode/frontend-configs",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "keywords": [],
     "type": "commonjs",
     "repository": {
@@ -12,9 +12,9 @@
         "registry": "https://npm.pkg.github.com/vwsode",
         "access": "public"
     },
-    "author": "Amado Inc.",
+    "author": "vwsode Inc.",
     "license": "ISC",
-    "description": "The configuration files for Amado packages",
+    "description": "The configuration files for vwsode packages",
     "devDependencies": {
         "@commitlint/cli": "^19.4.1",
         "@commitlint/config-conventional": "^19.4.1",
